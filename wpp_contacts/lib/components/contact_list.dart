@@ -22,7 +22,6 @@ class ContactList extends StatelessWidget {
     return Container(
       height: MediaQuery.of(context).size.height - 70,
       child: ListView.builder(
-        padding: EdgeInsets.only(top: 0, bottom: 0),
         itemCount: contact.length,
         itemBuilder: (ctx, index) {
           final ct = contact[index];
