@@ -84,7 +84,7 @@ class MyHomePage extends StatelessWidget {
       name: 'Pedro',
       phone: '(31) 99124-1267',
       image:
-          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8DHlqbyMCpGk_p2DfEpb_nbaG5gEcYnjI0SbSqBJQ__djN-J3RLg8WgetaJSffAyRjU&usqp=CAU',
+          'https://www.liveabout.com/thmb/jyBQcDiXM_ysKfIHu88GvvW-20U=/1300x866/filters:no_upscale():max_bytes(150000):strip_icc()/loan-599c450a03f40200117e717a.jpg',
     ),
     Contact(
       name: 'Patrícia',
@@ -96,7 +96,7 @@ class MyHomePage extends StatelessWidget {
       name: 'Natan',
       phone: '(31) 97256-0916',
       image:
-          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8DHlqbyMCpGk_p2DfEpb_nbaG5gEcYnjI0SbSqBJQ__djN-J3RLg8WgetaJSffAyRjU&usqp=CAU',
+          'https://fhox.com.br/wp-content/uploads/2018/03/funny-weird-wtf-stock-photos-7-5a391ad5a43f9__700.jpg',
     ),
     Contact(
       name: 'Letícia',
